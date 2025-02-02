@@ -1,0 +1,10 @@
+pyautogui
+google-api-python-client
+python-dotenv
+requests
+sqlite3
+re
+os
+shutil
+time
+sys
